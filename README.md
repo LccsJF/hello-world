@@ -1,2 +1,4 @@
 # hello-world
-Exercício curso Back-End Cubos Academy, 09/08/23
+
+Repositório para exercícios Curso Back-End Cubos Academy
+Exercício hello-world, 09/08/23
